@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.86171216">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="117">
+                  <caret line="61" column="33" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#922#923#0" expanded="true" />
+                    <element signature="e#950#951#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BotUser1.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/BotUser1.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
+                  <folding>
+                    <element signature="docComment;class#BotUser1#0" expanded="false" />
+                    <element signature="e#211#295#0" expanded="false" />
+                    <element signature="method#BotUser1#0;class#BotUser1#0" expanded="false" />
+                    <element signature="method#findFunds#0;class#BotUser1#0" expanded="false" />
+                    <element signature="e#909#979#0" expanded="false" />
+                    <element signature="method#buyOption#0;class#BotUser1#0" expanded="false" />
+                    <element signature="e#2166#2220#0" expanded="false" />
+                    <element signature="method#buildOption#0;class#BotUser1#0" expanded="false" />
+                    <element signature="e#2504#2552#0" expanded="false" />
+                    <element signature="method#rollOrBail#0;class#BotUser1#0" expanded="false" />
+                    <element signature="method#manage#0;class#BotUser1#0" expanded="false" />
+                    <element signature="e#3185#3214#0" expanded="false" />
+                    <element signature="method#mortgageSomething#0;class#BotUser1#0" expanded="false" />
+                    <element signature="method#unmortgageSomething#0;class#BotUser1#0" expanded="false" />
+                    <element signature="method#buildOnSomething#0;class#BotUser1#0" expanded="false" />
+                    <element signature="method#sellSomething#0;class#BotUser1#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/sample/Game.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="66">
+                  <caret line="302" column="22" selection-start-line="302" selection-start-column="22" selection-end-line="302" selection-end-column="22" />
+                  <folding>
+                    <element signature="docComment;class#Game#0" expanded="false" />
+                    <element signature="e#119#143#0" expanded="false" />
+                    <element signature="docComment;method#Game#0;class#Game#0" expanded="false" />
+                    <element signature="method#Game#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#addUser#0;class#Game#0" expanded="false" />
+                    <element signature="method#addUser#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#setUpStreets#0;class#Game#0" expanded="false" />
+                    <element signature="method#setUpStreets#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#makeRoll#0;class#Game#0" expanded="false" />
+                    <element signature="method#makeRoll#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#landedOnsSpace#0;class#Game#0" expanded="false" />
+                    <element signature="method#landedOnsSpace#0;class#Game#0" expanded="false" />
+                    <element signature="e#6050#6143#0" expanded="false" />
+                    <element signature="docComment;method#makeTurn#0;class#Game#0" expanded="false" />
+                    <element signature="method#makeTurn#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getNextUser#0;class#Game#0" expanded="false" />
+                    <element signature="method#getNextUser#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#nextUser#0;class#Game#0" expanded="false" />
+                    <element signature="method#nextUser#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#beginTurnString#0;class#Game#0" expanded="false" />
+                    <element signature="method#beginTurnString#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#turn#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#autoGame#0;class#Game#0" expanded="false" />
+                    <element signature="method#autoGame#0;class#Game#0" expanded="false" />
+                    <element signature="e#11804#11821#0" expanded="false" />
+                    <element signature="method#isStreetBuildable#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#buildablePropertiesInStreet#0;class#Game#0" expanded="false" />
+                    <element signature="method#buildablePropertiesInStreet#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#ownerOfStreet#0;class#Game#0" expanded="false" />
+                    <element signature="method#ownerOfStreet#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#streetsOwned#0;class#Game#0" expanded="false" />
+                    <element signature="method#streetsOwned#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#propertiesOwned#0;class#Game#0" expanded="false" />
+                    <element signature="method#propertiesOwned#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#putInJail#0;class#Game#0" expanded="false" />
+                    <element signature="method#putInJail#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userIsInJail#0;class#Game#0" expanded="false" />
+                    <element signature="method#userIsInJail#0;class#Game#0" expanded="false" />
+                    <element signature="e#16289#16323#0" expanded="false" />
+                    <element signature="e#17112#17159#0" expanded="false" />
+                    <element signature="e#17715#17739#0" expanded="false" />
+                    <element signature="docComment;method#moveUser#0;class#Game#0" expanded="false" />
+                    <element signature="method#moveUser#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#moveToPosition#0;class#Game#0" expanded="false" />
+                    <element signature="method#moveToPosition#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#passGo#0;class#Game#0" expanded="false" />
+                    <element signature="method#passGo#0;class#Game#0" expanded="false" />
+                    <element signature="e#20440#20480#0" expanded="false" />
+                    <element signature="docComment;method#getUserPosition#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#auction#0;class#Game#0" expanded="false" />
+                    <element signature="method#auction#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#hasFunds#0;class#Game#0" expanded="false" />
+                    <element signature="method#hasFunds#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#giveMoney#0;class#Game#0" expanded="false" />
+                    <element signature="method#giveMoney#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#takeMoney#0;class#Game#0" expanded="false" />
+                    <element signature="method#takeMoney#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#rent#0;class#Game#0" expanded="false" />
+                    <element signature="method#rent#0;class#Game#0" expanded="false" />
+                    <element signature="method#buy#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#buildHouse#0;class#Game#0" expanded="false" />
+                    <element signature="method#buildHouse#0;class#Game#0" expanded="false" />
+                    <element signature="e#24877#24910#0" expanded="false" />
+                    <element signature="docComment;method#sellHouse#0;class#Game#0" expanded="false" />
+                    <element signature="method#sellHouse#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#bankrupt#0;class#Game#0" expanded="false" />
+                    <element signature="method#bankrupt#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#numRailwaysOwned#0;class#Game#0" expanded="false" />
+                    <element signature="method#numRailwaysOwned#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#numUtilitiesOwned#0;class#Game#0" expanded="false" />
+                    <element signature="method#numUtilitiesOwned#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#mortgageProperty#0;class#Game#0" expanded="false" />
+                    <element signature="method#mortgageProperty#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#unMortgageProperty#0;class#Game#0" expanded="false" />
+                    <element signature="method#unMortgageProperty#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getMoney#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#mortgagable#0;class#Game#0" expanded="false" />
+                    <element signature="method#mortgagable#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#setManageString#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getManageString#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getBuyString#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getOptionBox#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#waitingForBuyingInput#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#startBuyingInput#0;class#Game#0" expanded="false" />
+                    <element signature="method#startBuyingInput#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#buyingResponse#0;class#Game#0" expanded="false" />
+                    <element signature="method#buyingResponse#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userManage#0;class#Game#0" expanded="false" />
+                    <element signature="method#userManage#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userExit#0;class#Game#0" expanded="false" />
+                    <element signature="method#userExit#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userBuild#0;class#Game#0" expanded="false" />
+                    <element signature="method#userBuild#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userSell#0;class#Game#0" expanded="false" />
+                    <element signature="method#userSell#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userMortgage#0;class#Game#0" expanded="false" />
+                    <element signature="method#userMortgage#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#userUnmortgage#0;class#Game#0" expanded="false" />
+                    <element signature="method#userUnmortgage#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#sendInput#0;class#Game#0" expanded="false" />
+                    <element signature="method#sendInput#0;class#Game#0" expanded="false" />
+                    <element signature="e#39095#39114#0" expanded="false" />
+                    <element signature="docComment;method#manage1#0;class#Game#0" expanded="false" />
+                    <element signature="method#manage1#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#getPositions#0;class#Game#0" expanded="false" />
+                    <element signature="method#getPositions#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#usersAtPosition#0;class#Game#0" expanded="false" />
+                    <element signature="method#usersAtPosition#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#positionList#0;class#Game#0" expanded="false" />
+                    <element signature="method#positionList#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#currentUserInfo#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#positionsString#0;class#Game#0" expanded="false" />
+                    <element signature="method#positionsString#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#usersAtSquare#0;class#Game#0" expanded="false" />
+                    <element signature="method#usersAtSquare#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#infoBox#0;class#Game#0" expanded="false" />
+                    <element signature="docComment;method#printBoard#0;class#Game#0" expanded="false" />
+                    <element signature="method#printBoard#0;class#Game#0" expanded="false" />
+                    <element signature="e#44507#44555#0" expanded="false" />
+                    <element signature="docComment;method#printInfo#0;class#Game#0" expanded="false" />
+                    <element signature="method#printInfo#0;class#Game#0" expanded="false" />
+                    <element signature="method#printRound#0;class#Game#0" expanded="false" />
+                    <element signature="method#printOwnership#0;class#Game#0" expanded="false" />
+                    <element signature="method#generatePositions#0;class#Game#0" expanded="false" />
+                    <element signature="method#getPos#0;class#Game#0" expanded="false" />
+                    <element signature="method#delay#0;class#Game#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="luxuryTax.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/luxuryTax.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Square.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#132#133#0" expanded="false" />
+                    <element signature="e#161#162#0" expanded="false" />
+                    <element signature="e#199#200#0" expanded="false" />
+                    <element signature="e#228#229#0" expanded="false" />
+                    <element signature="e#261#262#0" expanded="false" />
+                    <element signature="e#288#289#0" expanded="false" />
+                    <element signature="e#328#329#0" expanded="false" />
+                    <element signature="e#360#361#0" expanded="false" />
+                    <element signature="e#391#392#0" expanded="false" />
+                    <element signature="e#430#431#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RunGame.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/RunGame.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FXB.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/FXB.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="22">
+                  <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Property.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Property.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+                  <folding>
+                    <element signature="method#getName#0;class#Property#0" expanded="false" />
+                    <element signature="e#563#564#0" expanded="false" />
+                    <element signature="e#595#596#0" expanded="false" />
+                    <element signature="e#628#629#0" expanded="false" />
+                    <element signature="e#664#665#0" expanded="false" />
+                    <element signature="method#Property#0;class#Property#0" expanded="false" />
+                    <element signature="e#890#891#0" expanded="false" />
+                    <element signature="e#932#933#0" expanded="false" />
+                    <element signature="e#964#965#0" expanded="false" />
+                    <element signature="e#1001#1002#0" expanded="false" />
+                    <element signature="method#buildHouse#0;class#Property#0" expanded="false" />
+                    <element signature="method#sellHouse#0;class#Property#0" expanded="false" />
+                    <element signature="e#1406#1407#0" expanded="false" />
+                    <element signature="e#1445#1446#0" expanded="false" />
+                    <element signature="method#totalHouseValue#0;class#Property#0" expanded="false" />
+                    <element signature="method#hasHotel#0;class#Property#0" expanded="false" />
+                    <element signature="method#toString#0;class#Property#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Card.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2958">
+                  <caret line="182" column="22" selection-start-line="182" selection-start-column="22" selection-end-line="182" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#697#698#0" expanded="false" />
+                    <element signature="e#729#730#0" expanded="false" />
+                    <element signature="e#779#780#0" expanded="false" />
+                    <element signature="e#814#815#0" expanded="false" />
+                    <element signature="e#874#875#0" expanded="false" />
+                    <element signature="e#912#913#0" expanded="false" />
+                    <element signature="e#945#946#0" expanded="false" />
+                    <element signature="e#993#994#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="setUp.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/setUp.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/sample/User.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="146">
+                  <caret line="465" column="23" selection-start-line="465" selection-start-column="21" selection-end-line="465" selection-end-column="23" />
+                  <folding>
+                    <element signature="docComment;class#User#0" expanded="false" />
+                    <element signature="e#183#267#0" expanded="false" />
+                    <element signature="docComment;method#setGame#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#User#0;class#User#0" expanded="false" />
+                    <element signature="method#User#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#findFunds#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#update#0;class#User#0" expanded="false" />
+                    <element signature="method#update#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#buyOption#0;class#User#0" expanded="false" />
+                    <element signature="method#tradeOption#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#buildString#0;class#User#0" expanded="false" />
+                    <element signature="method#buildString#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#sellString#0;class#User#0" expanded="false" />
+                    <element signature="method#sellString#0;class#User#0" expanded="false" />
+                    <element signature="e#4192#4220#0" expanded="false" />
+                    <element signature="docComment;method#mortgageString#0;class#User#0" expanded="false" />
+                    <element signature="method#mortgageString#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#unmortgageString#0;class#User#0" expanded="false" />
+                    <element signature="method#unmortgageString#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#builtProperties#0;class#User#0" expanded="false" />
+                    <element signature="method#builtProperties#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getValue#0;class#User#0" expanded="false" />
+                    <element signature="method#getValue#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#canGetStreet#0;class#User#0" expanded="false" />
+                    <element signature="method#canGetStreet#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#propertiesToBuildOn#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#listOfPropertiesToBuildOn#0;class#User#0" expanded="false" />
+                    <element signature="method#listOfPropertiesToBuildOn#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#buildOnProperty#0;class#User#0" expanded="false" />
+                    <element signature="method#buildOnProperty#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#undevelopedToMortgage#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#listOfUndevelopedToMortgage#0;class#User#0" expanded="false" />
+                    <element signature="method#listOfUndevelopedToMortgage#0;class#User#0" expanded="false" />
+                    <element signature="e#9132#9194#0" expanded="false" />
+                    <element signature="docComment;method#mortgagePurchasable#0;class#User#0" expanded="false" />
+                    <element signature="method#mortgagePurchasable#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#developedToSell#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#listOfDevelopedToSell#0;class#User#0" expanded="false" />
+                    <element signature="method#listOfDevelopedToSell#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#sellHouse#0;class#User#0" expanded="false" />
+                    <element signature="method#sellHouse#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#mortgagedToUnmortgage#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#listOfMortgaged#0;class#User#0" expanded="false" />
+                    <element signature="method#listOfMortgaged#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#unmortgaged#0;class#User#0" expanded="false" />
+                    <element signature="e#12194#12239#0" expanded="false" />
+                    <element signature="docComment;method#biggesttMortgage#0;class#User#0" expanded="false" />
+                    <element signature="method#biggesttMortgage#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getUserName#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#propertyString#0;class#User#0" expanded="false" />
+                    <element signature="method#propertyString#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getInfo#0;class#User#0" expanded="false" />
+                    <element signature="method#getInfo#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getUserID#0;class#User#0" expanded="false" />
+                    <element signature="method#getUserID#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getMoney#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#numHouses#0;class#User#0" expanded="false" />
+                    <element signature="method#numHouses#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#numHotels#0;class#User#0" expanded="false" />
+                    <element signature="method#numHotels#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getWorth#0;class#User#0" expanded="false" />
+                    <element signature="method#getWorth#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#toString#0;class#User#0" expanded="false" />
+                    <element signature="method#toString#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#isUserInJail#0;class#User#0" expanded="false" />
+                    <element signature="method#isUserInJail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#putInJail#0;class#User#0" expanded="false" />
+                    <element signature="method#putInJail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#freeFromJail#0;class#User#0" expanded="false" />
+                    <element signature="method#freeFromJail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#getTurnsInJail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#increaseTurnsInJail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#rollOrBail#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#hasJailCard#0;class#User#0" expanded="false" />
+                    <element signature="method#hasJailCard#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#giveJailCard#0;class#User#0" expanded="false" />
+                    <element signature="docComment;method#useJailCard#0;class#User#0" expanded="false" />
+                    <element signature="method#useJailCard#0;class#User#0" expanded="false" />
+                    <element signature="e#19958#19987#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="incomeTax.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/incomeTax.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#575#576#0" expanded="false" />
+                    <element signature="e#608#609#0" expanded="false" />
+                    <element signature="e#656#657#0" expanded="false" />
+                    <element signature="e#686#687#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/style.css" />
+        <option value="$PROJECT_DIR$/src/sample/Login.java" />
+        <option value="$PROJECT_DIR$/src/sample/Person.java" />
+        <option value="$PROJECT_DIR$/src/sample/Labeled.java" />
+        <option value="$PROJECT_DIR$/src/sample/Label.java" />
+        <option value="$PROJECT_DIR$/src/sample/codeDump.java" />
+        <option value="$PROJECT_DIR$/src/sample/MagnifierPane.java" />
+        <option value="$PROJECT_DIR$/src/sample/HelloMenu.java" />
+        <option value="$PROJECT_DIR$/src/sample/img/User.java" />
+        <option value="$PROJECT_DIR$/src/sample/replace.java" />
+        <option value="$PROJECT_DIR$/src/sample/test2.java" />
+        <option value="$PROJECT_DIR$/src/sample/test.java" />
+        <option value="$PROJECT_DIR$/src/sample/Test.java" />
+        <option value="$PROJECT_DIR$/src/sample/Dice.java" />
+        <option value="$PROJECT_DIR$/src/sample/DiceTest.java" />
+        <option value="$PROJECT_DIR$/src/sample/Idle.java" />
+        <option value="$PROJECT_DIR$/src/sample/goToJail.java" />
+        <option value="$PROJECT_DIR$/src/sample/luxuryTax.java" />
+        <option value="$PROJECT_DIR$/src/sample/Purchasable.java" />
+        <option value="$PROJECT_DIR$/src/sample/Railway.java" />
+        <option value="$PROJECT_DIR$/src/sample/Square.java" />
+        <option value="$PROJECT_DIR$/../code18040301.java" />
+        <option value="$PROJECT_DIR$/../code21450301.java" />
+        <option value="$PROJECT_DIR$/src/sample/Actionable.java" />
+        <option value="$PROJECT_DIR$/src/sample/incomeTax.java" />
+        <option value="$PROJECT_DIR$/src/sample/Utility.java" />
+        <option value="$PROJECT_DIR$/src/sample/mainStyle.css" />
+        <option value="$PROJECT_DIR$/src/sample/Property.java" />
+        <option value="$PROJECT_DIR$/src/sample/HumanUser.java" />
+        <option value="$PROJECT_DIR$/src/sample/Card.java" />
+        <option value="$PROJECT_DIR$/src/sample/RunGame.java" />
+        <option value="$PROJECT_DIR$/src/sample/Game.java" />
+        <option value="$PROJECT_DIR$/src/sample/setUp.java" />
+        <option value="$PROJECT_DIR$/src/sample/FXB.java" />
+        <option value="$PROJECT_DIR$/src/sample/User.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/BotUser1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-49" />
+    <option name="y" value="33" />
+    <option name="width" value="1238" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonopolyFX 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonopolyFX 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonopolyFX 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonopolyFX 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonopolyFX 3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brian\IdeaProjects\MonopolyFX 3\src\sample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="HelloMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.HelloMenu" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="RunGame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FXB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.FXB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunGame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.RunGame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MonopolyFX" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HelloMenu" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RunGame" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FXB" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunGame (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.RunGame (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FXB" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RunGame" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloMenu" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-49" y="33" width="1238" height="775" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32055214" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33489096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32565284" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21986417" sideWeight="0.6703755" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28374234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982906" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3982906" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32055214" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33026114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32565284" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19591528" sideWeight="0.6703755" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28374234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="70" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Labeled.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Label.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/sample/MagnifierPane.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/HelloMenu.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/img/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/User (1).java" />
+    <entry file="file://$PROJECT_DIR$/src/src (1)-20170224T163445Z-001/src (1)/User (1).java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/replace.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/codeDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/DiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Railway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../code20390228.java" />
+    <entry file="file://$PROJECT_DIR$/../code18040301.java" />
+    <entry file="file://$PROJECT_DIR$/../code21450301.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Actionable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/mainStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="203" column="34" selection-start-line="203" selection-start-column="34" selection-end-line="203" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/Java/jdk/javafx-src.zip!/javafx/scene/control/TextInputControl.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.058/BotUser1.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.080/BotUser1.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.948/Game.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.268/Game.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.540/HumanUser.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.464/User.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.795/User.java" />
+    <entry file="file://$USER_HOME$/Downloads/Property.java" />
+    <entry file="jar://D:/java/Java/jdk/javafx-src.zip!/javafx/event/EventHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/goToJail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/HumanUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="210" column="5" selection-start-line="194" selection-start-column="8" selection-end-line="210" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#roll#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#HumanUser#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#buyOption#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#buildOption#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#rollOrBail#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#manage#0;class#HumanUser#0" expanded="false" />
+            <element signature="method#userBuildHouse#0;class#HumanUser#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_101/javafx-src.zip!/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Idle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Purchasable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="182" column="22" selection-start-line="182" selection-start-column="22" selection-end-line="182" selection-end-column="22" />
+          <folding>
+            <element signature="e#697#698#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#814#815#0" expanded="false" />
+            <element signature="e#874#875#0" expanded="false" />
+            <element signature="e#912#913#0" expanded="false" />
+            <element signature="e#945#946#0" expanded="false" />
+            <element signature="e#993#994#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#132#133#0" expanded="false" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#261#262#0" expanded="false" />
+            <element signature="e#288#289#0" expanded="false" />
+            <element signature="e#328#329#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="method#getName#0;class#Property#0" expanded="false" />
+            <element signature="e#563#564#0" expanded="false" />
+            <element signature="e#595#596#0" expanded="false" />
+            <element signature="e#628#629#0" expanded="false" />
+            <element signature="e#664#665#0" expanded="false" />
+            <element signature="method#Property#0;class#Property#0" expanded="false" />
+            <element signature="e#890#891#0" expanded="false" />
+            <element signature="e#932#933#0" expanded="false" />
+            <element signature="e#964#965#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
+            <element signature="method#buildHouse#0;class#Property#0" expanded="false" />
+            <element signature="method#sellHouse#0;class#Property#0" expanded="false" />
+            <element signature="e#1406#1407#0" expanded="false" />
+            <element signature="e#1445#1446#0" expanded="false" />
+            <element signature="method#totalHouseValue#0;class#Property#0" expanded="false" />
+            <element signature="method#hasHotel#0;class#Property#0" expanded="false" />
+            <element signature="method#toString#0;class#Property#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/incomeTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#575#576#0" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#656#657#0" expanded="false" />
+            <element signature="e#686#687#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/RunGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/FXB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/luxuryTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="465" column="23" selection-start-line="465" selection-start-column="21" selection-end-line="465" selection-end-column="23" />
+          <folding>
+            <element signature="docComment;class#User#0" expanded="false" />
+            <element signature="e#183#267#0" expanded="false" />
+            <element signature="docComment;method#setGame#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#User#0;class#User#0" expanded="false" />
+            <element signature="method#User#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#findFunds#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#update#0;class#User#0" expanded="false" />
+            <element signature="method#update#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#buyOption#0;class#User#0" expanded="false" />
+            <element signature="method#tradeOption#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#buildString#0;class#User#0" expanded="false" />
+            <element signature="method#buildString#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#sellString#0;class#User#0" expanded="false" />
+            <element signature="method#sellString#0;class#User#0" expanded="false" />
+            <element signature="e#4192#4220#0" expanded="false" />
+            <element signature="docComment;method#mortgageString#0;class#User#0" expanded="false" />
+            <element signature="method#mortgageString#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#unmortgageString#0;class#User#0" expanded="false" />
+            <element signature="method#unmortgageString#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#builtProperties#0;class#User#0" expanded="false" />
+            <element signature="method#builtProperties#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getValue#0;class#User#0" expanded="false" />
+            <element signature="method#getValue#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#canGetStreet#0;class#User#0" expanded="false" />
+            <element signature="method#canGetStreet#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#propertiesToBuildOn#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#listOfPropertiesToBuildOn#0;class#User#0" expanded="false" />
+            <element signature="method#listOfPropertiesToBuildOn#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#buildOnProperty#0;class#User#0" expanded="false" />
+            <element signature="method#buildOnProperty#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#undevelopedToMortgage#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#listOfUndevelopedToMortgage#0;class#User#0" expanded="false" />
+            <element signature="method#listOfUndevelopedToMortgage#0;class#User#0" expanded="false" />
+            <element signature="e#9132#9194#0" expanded="false" />
+            <element signature="docComment;method#mortgagePurchasable#0;class#User#0" expanded="false" />
+            <element signature="method#mortgagePurchasable#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#developedToSell#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#listOfDevelopedToSell#0;class#User#0" expanded="false" />
+            <element signature="method#listOfDevelopedToSell#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#sellHouse#0;class#User#0" expanded="false" />
+            <element signature="method#sellHouse#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#mortgagedToUnmortgage#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#listOfMortgaged#0;class#User#0" expanded="false" />
+            <element signature="method#listOfMortgaged#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#unmortgaged#0;class#User#0" expanded="false" />
+            <element signature="e#12194#12239#0" expanded="false" />
+            <element signature="docComment;method#biggesttMortgage#0;class#User#0" expanded="false" />
+            <element signature="method#biggesttMortgage#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getUserName#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#propertyString#0;class#User#0" expanded="false" />
+            <element signature="method#propertyString#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getInfo#0;class#User#0" expanded="false" />
+            <element signature="method#getInfo#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getUserID#0;class#User#0" expanded="false" />
+            <element signature="method#getUserID#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getMoney#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#numHouses#0;class#User#0" expanded="false" />
+            <element signature="method#numHouses#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#numHotels#0;class#User#0" expanded="false" />
+            <element signature="method#numHotels#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getWorth#0;class#User#0" expanded="false" />
+            <element signature="method#getWorth#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#User#0" expanded="false" />
+            <element signature="method#toString#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#isUserInJail#0;class#User#0" expanded="false" />
+            <element signature="method#isUserInJail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#putInJail#0;class#User#0" expanded="false" />
+            <element signature="method#putInJail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#freeFromJail#0;class#User#0" expanded="false" />
+            <element signature="method#freeFromJail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#getTurnsInJail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#increaseTurnsInJail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#rollOrBail#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#hasJailCard#0;class#User#0" expanded="false" />
+            <element signature="method#hasJailCard#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#giveJailCard#0;class#User#0" expanded="false" />
+            <element signature="docComment;method#useJailCard#0;class#User#0" expanded="false" />
+            <element signature="method#useJailCard#0;class#User#0" expanded="false" />
+            <element signature="e#19958#19987#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/BotUser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
+          <folding>
+            <element signature="docComment;class#BotUser1#0" expanded="false" />
+            <element signature="e#211#295#0" expanded="false" />
+            <element signature="method#BotUser1#0;class#BotUser1#0" expanded="false" />
+            <element signature="method#findFunds#0;class#BotUser1#0" expanded="false" />
+            <element signature="e#909#979#0" expanded="false" />
+            <element signature="method#buyOption#0;class#BotUser1#0" expanded="false" />
+            <element signature="e#2166#2220#0" expanded="false" />
+            <element signature="method#buildOption#0;class#BotUser1#0" expanded="false" />
+            <element signature="e#2504#2552#0" expanded="false" />
+            <element signature="method#rollOrBail#0;class#BotUser1#0" expanded="false" />
+            <element signature="method#manage#0;class#BotUser1#0" expanded="false" />
+            <element signature="e#3185#3214#0" expanded="false" />
+            <element signature="method#mortgageSomething#0;class#BotUser1#0" expanded="false" />
+            <element signature="method#unmortgageSomething#0;class#BotUser1#0" expanded="false" />
+            <element signature="method#buildOnSomething#0;class#BotUser1#0" expanded="false" />
+            <element signature="method#sellSomething#0;class#BotUser1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/setUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="302" column="22" selection-start-line="302" selection-start-column="22" selection-end-line="302" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#Game#0" expanded="false" />
+            <element signature="e#119#143#0" expanded="false" />
+            <element signature="docComment;method#Game#0;class#Game#0" expanded="false" />
+            <element signature="method#Game#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#addUser#0;class#Game#0" expanded="false" />
+            <element signature="method#addUser#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#setUpStreets#0;class#Game#0" expanded="false" />
+            <element signature="method#setUpStreets#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#makeRoll#0;class#Game#0" expanded="false" />
+            <element signature="method#makeRoll#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#landedOnsSpace#0;class#Game#0" expanded="false" />
+            <element signature="method#landedOnsSpace#0;class#Game#0" expanded="false" />
+            <element signature="e#6050#6143#0" expanded="false" />
+            <element signature="docComment;method#makeTurn#0;class#Game#0" expanded="false" />
+            <element signature="method#makeTurn#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getNextUser#0;class#Game#0" expanded="false" />
+            <element signature="method#getNextUser#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#nextUser#0;class#Game#0" expanded="false" />
+            <element signature="method#nextUser#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#beginTurnString#0;class#Game#0" expanded="false" />
+            <element signature="method#beginTurnString#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#turn#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#autoGame#0;class#Game#0" expanded="false" />
+            <element signature="method#autoGame#0;class#Game#0" expanded="false" />
+            <element signature="e#11804#11821#0" expanded="false" />
+            <element signature="method#isStreetBuildable#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#buildablePropertiesInStreet#0;class#Game#0" expanded="false" />
+            <element signature="method#buildablePropertiesInStreet#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#ownerOfStreet#0;class#Game#0" expanded="false" />
+            <element signature="method#ownerOfStreet#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#streetsOwned#0;class#Game#0" expanded="false" />
+            <element signature="method#streetsOwned#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#propertiesOwned#0;class#Game#0" expanded="false" />
+            <element signature="method#propertiesOwned#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#putInJail#0;class#Game#0" expanded="false" />
+            <element signature="method#putInJail#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userIsInJail#0;class#Game#0" expanded="false" />
+            <element signature="method#userIsInJail#0;class#Game#0" expanded="false" />
+            <element signature="e#16289#16323#0" expanded="false" />
+            <element signature="e#17112#17159#0" expanded="false" />
+            <element signature="e#17715#17739#0" expanded="false" />
+            <element signature="docComment;method#moveUser#0;class#Game#0" expanded="false" />
+            <element signature="method#moveUser#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#moveToPosition#0;class#Game#0" expanded="false" />
+            <element signature="method#moveToPosition#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#passGo#0;class#Game#0" expanded="false" />
+            <element signature="method#passGo#0;class#Game#0" expanded="false" />
+            <element signature="e#20440#20480#0" expanded="false" />
+            <element signature="docComment;method#getUserPosition#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#auction#0;class#Game#0" expanded="false" />
+            <element signature="method#auction#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#hasFunds#0;class#Game#0" expanded="false" />
+            <element signature="method#hasFunds#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#giveMoney#0;class#Game#0" expanded="false" />
+            <element signature="method#giveMoney#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#takeMoney#0;class#Game#0" expanded="false" />
+            <element signature="method#takeMoney#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#rent#0;class#Game#0" expanded="false" />
+            <element signature="method#rent#0;class#Game#0" expanded="false" />
+            <element signature="method#buy#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#buildHouse#0;class#Game#0" expanded="false" />
+            <element signature="method#buildHouse#0;class#Game#0" expanded="false" />
+            <element signature="e#24877#24910#0" expanded="false" />
+            <element signature="docComment;method#sellHouse#0;class#Game#0" expanded="false" />
+            <element signature="method#sellHouse#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#bankrupt#0;class#Game#0" expanded="false" />
+            <element signature="method#bankrupt#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#numRailwaysOwned#0;class#Game#0" expanded="false" />
+            <element signature="method#numRailwaysOwned#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#numUtilitiesOwned#0;class#Game#0" expanded="false" />
+            <element signature="method#numUtilitiesOwned#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#mortgageProperty#0;class#Game#0" expanded="false" />
+            <element signature="method#mortgageProperty#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#unMortgageProperty#0;class#Game#0" expanded="false" />
+            <element signature="method#unMortgageProperty#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getMoney#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#mortgagable#0;class#Game#0" expanded="false" />
+            <element signature="method#mortgagable#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#setManageString#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getManageString#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getBuyString#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getOptionBox#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#waitingForBuyingInput#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#startBuyingInput#0;class#Game#0" expanded="false" />
+            <element signature="method#startBuyingInput#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#buyingResponse#0;class#Game#0" expanded="false" />
+            <element signature="method#buyingResponse#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userManage#0;class#Game#0" expanded="false" />
+            <element signature="method#userManage#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userExit#0;class#Game#0" expanded="false" />
+            <element signature="method#userExit#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userBuild#0;class#Game#0" expanded="false" />
+            <element signature="method#userBuild#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userSell#0;class#Game#0" expanded="false" />
+            <element signature="method#userSell#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userMortgage#0;class#Game#0" expanded="false" />
+            <element signature="method#userMortgage#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#userUnmortgage#0;class#Game#0" expanded="false" />
+            <element signature="method#userUnmortgage#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#sendInput#0;class#Game#0" expanded="false" />
+            <element signature="method#sendInput#0;class#Game#0" expanded="false" />
+            <element signature="e#39095#39114#0" expanded="false" />
+            <element signature="docComment;method#manage1#0;class#Game#0" expanded="false" />
+            <element signature="method#manage1#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#getPositions#0;class#Game#0" expanded="false" />
+            <element signature="method#getPositions#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#usersAtPosition#0;class#Game#0" expanded="false" />
+            <element signature="method#usersAtPosition#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#positionList#0;class#Game#0" expanded="false" />
+            <element signature="method#positionList#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#currentUserInfo#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#positionsString#0;class#Game#0" expanded="false" />
+            <element signature="method#positionsString#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#usersAtSquare#0;class#Game#0" expanded="false" />
+            <element signature="method#usersAtSquare#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#infoBox#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#printBoard#0;class#Game#0" expanded="false" />
+            <element signature="method#printBoard#0;class#Game#0" expanded="false" />
+            <element signature="e#44507#44555#0" expanded="false" />
+            <element signature="docComment;method#printInfo#0;class#Game#0" expanded="false" />
+            <element signature="method#printInfo#0;class#Game#0" expanded="false" />
+            <element signature="method#printRound#0;class#Game#0" expanded="false" />
+            <element signature="method#printOwnership#0;class#Game#0" expanded="false" />
+            <element signature="method#generatePositions#0;class#Game#0" expanded="false" />
+            <element signature="method#getPos#0;class#Game#0" expanded="false" />
+            <element signature="method#delay#0;class#Game#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

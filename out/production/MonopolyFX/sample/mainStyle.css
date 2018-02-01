@@ -1,0 +1,210 @@
+#backgroundColor{
+   -fx-border-color: #000000;
+   -fx-background-color: rgb(202,232,206);
+}
+#borderscene1{
+   -fx-border-color: #000000;
+   -fx-background-color: rgb(202,232,206);
+}
+#begingame{
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
+#border{
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-border-radius: 2;
+}
+#grid11{
+    -fx-border-color: #000000;
+    -fx-border-width:2;
+}
+#labelString{
+    -fx-font-weight:800;
+    -fx-font-size: 8;
+    -fx-text-alignment: center;
+}
+#labelpub{
+    -fx-background-image: url(img/pubcrawl.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labela00{
+    -fx-background-image: url(img/Arrow.png);
+}
+#labelgo{
+    -fx-background-image: url(img/GO1.jpg);
+    -fx-background-repeat: no-repeat;
+}
+#labelbrown{
+    -fx-background-color: #804000;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 2 0;
+}
+#labelpink{
+    -fx-background-color: #EE30A7;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 0 2;
+}
+#labelblue{
+    -fx-background-color: #66ccff;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 2 0;
+}
+#labelorange{
+    -fx-background-color: #FF8B00;
+    -fx-border-color: black;
+    -fx-border-width: 0 0 0 2;
+}
+#labelred{
+    -fx-background-color: #EE0000;
+    -fx-border-color: black;
+    -fx-border-width: 2 0 0 0;
+}
+#labelyellow{
+    -fx-background-color: #EEEE00;
+    -fx-border-color: black;
+    -fx-border-width: 2 0 0 0;
+}
+#labelgreen{
+    -fx-background-color: #228B22;
+    -fx-border-color: black;
+    -fx-border-width: 0 2 0 0;
+}
+#labeldarkblue{
+    -fx-background-color: #27408B;
+    -fx-border-color: black;
+    -fx-border-width: 0 2 0 0;
+}
+#border{
+    -fx-border-color: #000000;
+}
+#labelchest{
+    -fx-background-image: url(img/chest2.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelincomeTax{
+    -fx-text-alignment: center;
+}
+#speedo{
+    -fx-text-alignment: center;
+}
+#labelburger1{
+    -fx-background-image: url(img/burger.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labeljail{
+    -fx-background-image: url(img/injail.jpg);
+}
+#labelbulb{
+    -fx-background-image: url(img/bulb.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelfp{
+    -fx-background-image: url(img/FREEPARKING.jpg);
+}
+#labelchance1{
+    -fx-background-image: url(img/chance1.jpg);
+    -fx-background-position: center center;
+}
+#labelburger2{
+    -fx-background-image: url(img/burger2.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelchest22{
+    -fx-background-image: url(img/chest3.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelchance2{
+    -fx-background-image: url(img/chance2.jpg);
+    -fx-background-position: center center;
+}
+#labelburger3{
+    -fx-background-image: url(img/burger3.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#mcd{
+    -fx-text-alignment: center;
+}
+#labelchest3{
+    -fx-background-image: url(img/chest4.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelwater{
+    -fx-background-image: url(img/water.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#water{
+    -fx-text-alignment: center;
+}
+#labelburger4{
+    -fx-background-image: url(img/burger4.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelchance3{
+    -fx-background-image: url(img/chance3.jpg);
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+#labelring{
+    -fx-background-image: url(img/ring.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+#labelgojail{
+    -fx-background-image: url(img/gojail.jpg);
+}
+////////////////////////////////////////////////////////////////
+#p1{
+}
+#p2{
+    /*-fx-background-image:url(img/Cork-monopoly.jpg);*/
+    -fx-border-width: 2px;
+    -fx-border-color: #3B3B3B;
+    -fx-border-radius:2;
+}
+#p1left{
+    -fx-background-image:url(img/bggrey.jpg);
+    -fx-background-repeat: no-repeat;
+}
+#p1right{
+    -fx-background-image:url(img/bggrey.jpg);
+}
+#p2centre{
+    -fx-background-image:url(img/pubcrawl1.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+
+}
+#button1{
+   -fx-text-fill: white;
+   -fx-font-family: "Arial Narrow";
+   -fx-font-weight: bold;
+   -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+   -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#spaneinfo{
+    -fx-border-radius: 4;
+    -fx-border-width: 2;
+    -fx-border-color: black;
+}
+#sp2{
+    -fx-background-color: #C1C1C1;
+}
+
+#labelplayers{
+    -fx-text-fill: white;
+}
+
